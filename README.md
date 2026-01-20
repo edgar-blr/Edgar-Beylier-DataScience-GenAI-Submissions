@@ -7,7 +7,6 @@ The repository is structured around three core themes that directly support the 
 
 ---
 ## Repository Structure
-
 ### 1) Data-Driven Forecasting & Scenario Analysis
 **Folder:** `1) Data-Driven Forecasting & Scenario Analysis`
 
